@@ -35,3 +35,4 @@ TOP 5 MISTAKES FOR FIRST TIME TECH LEADS
 5. Constantly reacting
 
 
+I have patterns for solving developer problems. I do not have patterns for solving tech lead problems.
