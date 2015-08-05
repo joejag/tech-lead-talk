@@ -246,5 +246,32 @@ Think above and beyond what it means to be a developer. Impiortant and essentail
 
 
 
+FOG CREEK INTERVIEW
+===================
+
+Little support for this role.
+Most challengs are the people side of the role.
+Who's upset? Make agreement between opinionated devs. Still trying to deliver.
+You won't have enough time to do the things you want to do
+Managing Yourself: Time, Stress, Strenths & Weaknesses
+Paradox: key thing to manage. 
+Developers respect technical knowledge. Ivory twoer, far removed from the context
+You will always be interrupted. Block out time, book a meeting room. Offset your day (start early, work late).
+Two types: self-empowered, trust everyone (DANGEROUS if team not in that mode) -> Opinonated devs form the direction, unresolved problems. Other extreme, must demonstrate leadership. Make their stamp. You need to be able to play these toles, but not all the time.. THE model does not say when things are good or bad.
+Resources: Lots of diff books. People (hard). Getting to Yes. Cruicial conversations.
+ 
+
+TECH LEAD SKILLS FOR DEVS
+=========================
+
+Lonely tech lead role.
+Why need a tech lead: all self-empowered wonderful. 
+Still coding is for respect and empathy
+
+
+
+
+
+
 
 
