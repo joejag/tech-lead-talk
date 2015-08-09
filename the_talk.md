@@ -57,7 +57,9 @@ The Situation: Just made tech lead, did the same + meetings. Things started goin
 * People appoint you as a leader as you make good decisions. It is your duty to train others to learn to make good decisions too.
 * Delegate by Diary (like performance problems, it ain't where you think it is))
 * Feature leeds.
-
+* Ask people to come to the team rather than email. Use a concierge.
+* Work out which issues will have the most impact, and so which would provide the ost value by being resolved.
+* Bring a team member to all meetings, so you can delegate in the future
 
 
 
@@ -65,7 +67,7 @@ The Situation: Just made tech lead, did the same + meetings. Things started goin
 
 The situation: Let's treat everyone the same. Encourage a self-organising team, just get involved when things veer off course. This ends up with devs stuggling for 5 days. Or 
 
-* Every dev is like a seed, you need to figure out how the best way to make it grow
+* Every dev is like a seed, you need to figure out how to create the right environment for them to flourish
 * Is it ok to tell people what to do? Yes Sometimes.
 * Situational Management Theory
 * You need to know the task and the skills of hte person
@@ -76,18 +78,6 @@ The situation: Let's treat everyone the same. Encourage a self-organising team, 
 
 
 
-
-
-## The Grad decision 
-
-The situation: Headline. You've just bedded in a grab. You can get a better person.
-
-* Experience vs Diversity
-* The team was acting quite conservative about practices and it's outlook
-* I want the best I can get to make it easier for me.
-* Asked my supriors who didn't quite give a clear answer.
-* Team delivering. What would you do?
-* Spent a day pairing. Some concerns, but seemed to have the right mindset.
 
 
 
@@ -102,9 +92,12 @@ The situation: You are running your standup, you ask for an update on an item. D
 
 * Document all the things? Document the edges. Document at different levels.
 * Many alternatives to documentation.
+* Documents are like bannas, they go off.
 
 
 "The realization that everyone is different when you talk to them alone is a secret to success in life. … The mystery for why some people you know succeed or fail in life is how courageous they are in pulling people aside and how effective they are in those private conversations we never see." - Scott Berkun
+
+
 
 
 
@@ -112,16 +105,40 @@ The situation: You are running your standup, you ask for an update on an item. D
  
 The situation: You've given two of your devs 4 days to prove out how to solve an icky problem. The solution is overly complex but works. Evertyhing in you says you are concerned. But they refuse to discuss the negatives and concenrtrate on variations of the same problem. Bonus, your lead architect likes the direction too.
 
-* Socratic method: What are our options? How will this impact on X? What happens if we encounter Y?
 * Mel advice. Don't make statements, ask questions.
-* Take a break.
-
+* Socratic method: What are our options? How will this impact on X? What happens if we encounter Y?
+* Take a break. Emotions come quick, and go quick.
+* "Avoiding giant holes in the ground is better than clibming up mountains" - Rob Lally
 * Make a list. It's less stressful when it's written down and prioritized
+* Priase the original idea
+* The people above are emotional too. Give them just enough info.
+
+## The Shiny thing
+
+The situation: The new dev wants to rewrite your test suite in another tool which other teams aren't using.
 
 * Innovation vs Consistency
 * A suitable amount of standardisation helps productivity. Too much standardisation kills innovation.
+* "We allow innovation on teams, provided it is onnovation that is possible to be reused on other teams" - Stuart Skinner
 * Cretion and Destruction are two sides of the same coin.
 * We should eliminate useless traditions and introduce new valuable ones. An org where nothing eever changes is not a wirkplace byt a living museum
+* Priotization: Lean thinking. This has value, but is it more valuable then the next improvment option?
+
+
+
+## The Grad decision 
+
+The situation: Headline. You've just bedded in a grab. You can get a better person.
+
+* Experience vs Diversity
+* The team was acting quite conservative about practices and it's outlook
+* I want the best I can get to make it easier for me.
+* Asked my supriors who didn't quite give a clear answer.
+* Team delivering. What would you do?
+* Spent a day pairing. Some concerns, but seemed to have the right mindset.
+* Take the best person you can get factoring in skill, experience, energy & ability to learn quickly. Hire young for enthusiam, energy and desire to learn.
+* Depends on the stength of the team. Not sharing is a liability.
+
 
 
 
@@ -147,17 +164,15 @@ The Situation: You spend all your time on everyone else, that you start neglecti
 
 3 bits of advice?
 
-* Keep an experiences diary. Reach out to your ex-leaders, or people at the same level.
+* Keep an experiences diary. Reach out to your network.
 * Leadership changes in every context and with each person in that context. Treat each situation as unique.
 * Look after yourself, no one else is going to think about the big picture items
 
-* CALL TO ACTION: 
+Thank you.
 
 
 
-
-
-
+http://www.quotegarden.com/wisdom.html
 
 
 
