@@ -38,11 +38,12 @@ My main problems -> people ()
 Situation -> what I did -> what I should have done (lessons, advice)
 
 Situations
- * Time management. No code, too much code. (Code all the time vs No coding)
+ * Time management. No code, too much code. (Code all the time vs No coding). Delegate by diary
+ * Self-empowered team vs Directing everything. Si 
  * The Grad decision (Experience vs Diversity)
  * The dev who wanted to document everything + standup confrontation (Document all the things?) 
  * Helping people see your concerns - emtional investment in spike
- * Self-empowered team vs Directing everything
+ 
 
 WRAPUP
 3 bits of advice
@@ -50,6 +51,8 @@ call to action
 
 
 ================================================================================================================
+
+
 
 
 

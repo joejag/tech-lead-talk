@@ -179,7 +179,7 @@ Cannot change strengths
 Learning Activities
 ===================
 
-Pair, brown bad, team code reviews, book club, tech retro,, spike showcases
+Pair, brown bad, team code reviews, book club, tech retro, spike showcases
 
 spike is a learning activity. Show learnings and amplify through team.
 
