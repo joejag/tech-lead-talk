@@ -5,7 +5,6 @@ The Talk
 
 Learn all you can from the mistakes of others. You won't have time to make them all yourself. ~Alfred Sheinwold
 
-
 Have you ever worked on a project where....
  No one thought about how you were going to deploy it until a week before go live?
  There was no shared understanding of the architecture of an application?
@@ -32,13 +31,14 @@ During this talk I'll tell you about the problems I faced without knowing what t
  * Leader: Must be able to give feedback (to help develop and become more effective), not just tech: motivational, relationship building, delegating, influencing. Resolve conflict (healthy, but cannot stay in that state). 
  * Arch: TL is a hands on architect. Tech leads need to "Build systems - not software". CFRs. Deployment, how long it will last and evolve.
 
+Engender the tech vision. Champion cross functional attributes.  Build systems - not software. Focus on principles not impl.
+
 >>>>  So now we're all in agreement. Let me tell you the number one cause of situations where I was left flat footed
 
 ## People (Problems)
 
 * Things you never had an opinion on you now have to
 * I do not have a pattern to solve these problems
-* Lonely. No feedback at the same level.
 * Compassion for the folk that had to lead me in the past
 
 >>> So, no more fan fare, here's the problems that I was put in, I'll let you know what I did and what I'll probably do next time
@@ -46,6 +46,9 @@ During this talk I'll tell you about the problems I faced without knowing what t
 “Wisdom comes from experience. Experience is often a result of lack of wisdom.” ― Terry Pratchett
 
 # Situations 
+
+
+
 
 ## To code, or not to code?
 
@@ -55,15 +58,20 @@ The Situation: Just made tech lead, did the same + meetings. Things started goin
 * Respect is the currency of the tech realm
 * Code at least 30% of the time
 * People appoint you as a leader as you make good decisions. It is your duty to train others to learn to make good decisions too.
+
 * Delegate by Diary (like performance problems, it ain't where you think it is))
 * Feature leeds.
 * Ask people to come to the team rather than email. Use a concierge.
-* Work out which issues will have the most impact, and so which would provide the ost value by being resolved.
+* Work out which issues will have the most impact, and so which would provide the most value by being resolved.
 * Bring a team member to all meetings, so you can delegate in the future
+* Focus on principles not implementations
 
 
 
-## Leadership Styles - the Self-empowered team vs the Director
+
+
+
+## I should choose an approach and treat everyone the same.
 
 The situation: Let's treat everyone the same. Encourage a self-organising team, just get involved when things veer off course. This ends up with devs stuggling for 5 days. Or 
 
@@ -76,7 +84,7 @@ The situation: Let's treat everyone the same. Encourage a self-organising team, 
 * Competenace, need to know why it is importnat: SUPPORT
 * high competenace, high commitement: DELETGATE
 
-
+https://www.vitae.ac.uk/doing-research/leadership-development-for-principal-investigators-pis/leading-a-research-project/effective-research-project-leadership-1/research-leadership-styles
 
 
 
@@ -94,7 +102,6 @@ The situation: You are running your standup, you ask for an update on an item. D
 * Many alternatives to documentation.
 * Documents are like bannas, they go off.
 
-
 "The realization that everyone is different when you talk to them alone is a secret to success in life. … The mystery for why some people you know succeed or fail in life is how courageous they are in pulling people aside and how effective they are in those private conversations we never see." - Scott Berkun
 
 
@@ -108,10 +115,16 @@ The situation: You've given two of your devs 4 days to prove out how to solve an
 * Mel advice. Don't make statements, ask questions.
 * Socratic method: What are our options? How will this impact on X? What happens if we encounter Y?
 * Take a break. Emotions come quick, and go quick.
-* "Avoiding giant holes in the ground is better than clibming up mountains" - Rob Lally
-* Make a list. It's less stressful when it's written down and prioritized
+* "Avoiding giant holes in the ground is better than climbing up mountains" - Rob Lally
 * Priase the original idea
+* Visible relief
+
+* Make a list. It's less stressful when it's written down and prioritized
 * The people above are emotional too. Give them just enough info.
+
+
+
+
 
 ## The Shiny thing
 
@@ -123,6 +136,8 @@ The situation: The new dev wants to rewrite your test suite in another tool whic
 * Cretion and Destruction are two sides of the same coin.
 * We should eliminate useless traditions and introduce new valuable ones. An org where nothing eever changes is not a wirkplace byt a living museum
 * Priotization: Lean thinking. This has value, but is it more valuable then the next improvment option?
+
+
 
 
 
@@ -154,8 +169,7 @@ The Situation: You spend all your time on everyone else, that you start neglecti
 * Set aside planning time. Sit in a room on your own.
 * Book out a room. Block out a calendar section. WFH.
 * What are the things that no one else is thinking about?
-
-
+* Lonely. No feedback at the same level.
 
 
 
