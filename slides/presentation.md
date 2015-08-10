@@ -1,6 +1,7 @@
-# Confessions of a <br>Tech Lead
+# Confessions of a Tech Lead
 
-### *Joe Wright*
+### *Joe Wright* 
+#### __@joe_jag__
 
 ---
 
@@ -37,7 +38,7 @@
 
 ---
 
-> Wisdom comes from experience. Experience is often a result of lack of wisdom
+> Wisdom comes from experience. Experience is often a result of lack of wisdom.
 --Terry Pratchett
 
 ---
@@ -83,7 +84,7 @@
 
 ---
 
->Avoiding giant holes in the ground is better than climbing up mountains
+>Avoiding giant holes in the ground is better than climbing up mountains.
 -- Rob Lally
 
 ---
@@ -126,7 +127,6 @@
 
 ---
 
-
 # Image Attributions
 
 ```
@@ -147,4 +147,11 @@ Koen (bear on tracks): flickr.com/photos/d_oracle/350780566
 stanley yuu (statue): flickr.com/photos/san25269644/12362983344
 ```
 
+----
+
+## Ask me things
+
+### *Joe Wright* 
+### joe@joejag.com
+### *@joe_jag*
 
