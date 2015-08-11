@@ -26,9 +26,9 @@
 
 ![right](leader.jpg)
 
-- Engender the tech vision
-- Champion cross functional attributes
-- Build systems - not software
+- A developer who is a leader
+- Promotoes the tech vision
+- Build systems - not just software
 
 ---
 
@@ -65,8 +65,13 @@
 
 ---
 
+> All models are wrong, but some are useful.
+-- George E. P. Box
+
+---
+
 # Situation #3
-## *The group confrontation*
+## *The standup confrontation*
 
 ![left](stare.jpg)
 
@@ -84,12 +89,12 @@
 
 ---
 
->Avoiding giant holes in the ground is better than climbing up mountains.
+>Avoiding giant holes in the ground is preferable to climbing up mountains.
 -- Rob Lally
 
 ---
 
-# Situation #4
+# Situation #5
 ## *The Shiny thing*
 
 ![left](magpie.jpg)
@@ -104,7 +109,7 @@
 
 ---
 
-# Situation #5
+# Situation #6
 ## *The Grad decision*
 
 ![right](graduate.jpg)
@@ -116,8 +121,8 @@
 
 ---
 
-# Situation #6
-## *Don't forget yourself*
+# Situation #7
+## *Forgetting about yourself*
 
 ![left](bear.jpg)
 
@@ -130,26 +135,26 @@
 # Image Attributions
 
 ```
-Samantha Marx (library): flickr.com/photos/spam/5086168739
-Hamed Saber (desert): flickr.com/photos/hamed/327939900
-Pat Kua (tech lead circles): thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility
-Boston Public Library (people): flickr.com/photos/boston_public_library/6276242781
-Rhys Davenport (hamlet ape): flickr.com/photos/33122834@N06/3601626998
-tableatny (baton):  flickr.com/photos/53370644@N06/4976497160
-woodleywonderworks (coach): flickr.com/photos/wwworks/6320530955
-Rob Swystun (conduct): flickr.com/photos/rob_swystun/8098008837
-Noah (stare): flickr.com/photos/noahbulgaria/565360029
-Peter Mooney (runners): flickr.com/photos/peterm7/15225665855
-USFWS Mountain-Prairie (magpie): flickr.com/photos/usfwsmtnprairie/18612465062
-Ken Douglas (shiny): flickr.com/photos/good_day/319849055
-Ralph Daily (gradaute): flickr.com/photos/ralphandjenny/4612732045
-Koen (bear on tracks): flickr.com/photos/d_oracle/350780566
-stanley yuu (statue): flickr.com/photos/san25269644/12362983344
+Samantha Marx         (library)  flickr.com/photos/spam/5086168739
+Hamed Saber            (desert)  flickr.com/photos/hamed/327939900
+Pat Kua     (tech lead circles)  thekua.com/atwork/2015/06/tech-lead-circles-of-responsibility
+Boston Public Library  (people)  flickr.com/photos/boston_public_library/6276242781
+Rhys Davenport     (hamlet ape)  flickr.com/photos/33122834@N06/3601626998
+tableatny               (baton)  flickr.com/photos/53370644@N06/4976497160
+woodleywonderworks      (coach)  flickr.com/photos/wwworks/6320530955
+Rob Swystun           (conduct)  flickr.com/photos/rob_swystun/8098008837
+Noah                    (stare)  flickr.com/photos/noahbulgaria/565360029
+Peter Mooney          (runners)  flickr.com/photos/peterm7/15225665855
+USFWS Mountain-Prairie (magpie)  flickr.com/photos/usfwsmtnprairie/18612465062
+Ken Douglas             (shiny)  flickr.com/photos/good_day/319849055
+Ralph Daily          (gradaute)  flickr.com/photos/ralphandjenny/4612732045
+Koen           (bear on tracks)  flickr.com/photos/d_oracle/350780566
+stanley yuu            (statue)  flickr.com/photos/san25269644/12362983344
 ```
 
 ----
 
-## Ask me things
+## Ask me things!
 
 ### *Joe Wright* 
 ### joe@joejag.com
