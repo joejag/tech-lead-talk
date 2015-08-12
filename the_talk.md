@@ -135,11 +135,6 @@ SIT: 2 hours later. Complete change. Asked same questions.
 * Failure. Learning experience which saved us. We could see into the future.
 
 
-## QUOTE (Rob)
-
-* Learn off code. Don't be afraid to say no.
-
-
 ## Situation #5 THE SHINY THING
 
 SIT: Rewrite perf test in a Scala framework. Perf tests well established.

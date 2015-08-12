@@ -26,20 +26,25 @@
 
 ![right](leader.jpg)
 
-- A developer who is a leader
-- Promotoes the tech vision
-- Build systems - not just software
+# Developer who<br> is a Leader
+
+---
+
+![right](leader.jpg)
+
+# Architect who<br> promotes the tech vision
+
+---
+
+![right](leader.jpg)
+
+# Leader who<br> builds systems
 
 ---
 
 ![original 400%](people.jpg)
 
 # People
-
----
-
-> Wisdom comes from experience. Experience is often a result of lack of wisdom.
---Terry Pratchett
 
 ---
 
@@ -65,7 +70,7 @@
 
 ---
 
-> All models are wrong, but some are useful.
+> All models are wrong,<br> but some are useful.
 -- George E. P. Box
 
 ---
@@ -89,8 +94,7 @@
 
 ---
 
->Avoiding giant holes in the ground is preferable to climbing up mountains.
--- Rob Lally
+![](clock.jpg)
 
 ---
 
@@ -115,9 +119,9 @@
 ![right](graduate.jpg)
 
 ---
+
 >It depends
 -- All consultants
-
 
 ---
 
@@ -128,7 +132,50 @@
 
 ---
 
+# Code at least 30% of <br>the time. 
+![right original 60%](to_code.jpg)
+
+--- 
+
+## Use a leadership style depending on the person.
+
+![left](coach.jpg)
+![right](conductor.jpg)
+
+--- 
+
+## People are different when you speak to them alone.
+![](stare.jpg)
+
+---
+
+## Ask questions, rather than make statements.
+![](run.jpg)
+
+---
+
+## Stanardisation helps productivity. <br>Too much kills innovation.
+![left](magpie.jpg)
+![right](shiny.jpg)
+
+---
+
+## Enthusiastic junior developers improve your team culture
+![](graduate.jpg)
+
+---
+
+## Remember to look <br>after yourself
+![](bear.jpg)
+
+---
+
 ![](smile.jpg)
+
+---
+
+> Wisdom comes from experience. Experience is often a result<br> of lack of wisdom.
+--Terry Pratchett
 
 ---
 
@@ -145,6 +192,7 @@ woodleywonderworks      (coach)  flickr.com/photos/wwworks/6320530955
 Rob Swystun           (conduct)  flickr.com/photos/rob_swystun/8098008837
 Noah                    (stare)  flickr.com/photos/noahbulgaria/565360029
 Peter Mooney          (runners)  flickr.com/photos/peterm7/15225665855
+Uditha Wickramanayaka    (time)  flickr.com/photos/126915310@N08/16704483331
 USFWS Mountain-Prairie (magpie)  flickr.com/photos/usfwsmtnprairie/18612465062
 Ken Douglas             (shiny)  flickr.com/photos/good_day/319849055
 Ralph Daily          (gradaute)  flickr.com/photos/ralphandjenny/4612732045
@@ -154,7 +202,7 @@ stanley yuu            (statue)  flickr.com/photos/san25269644/12362983344
 
 ----
 
-## Ask me things!
+## What are your questions?
 
 ### *Joe Wright* 
 ### joe@joejag.com
